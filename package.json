@@ -1,10 +1,10 @@
 {
   "name": "learn",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A node package for education lol",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "author": "Omar Hossam",
   "license": "ISC",
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/moar55/learn-npm/issues"
   },
-  "homepage": "https://github.com/moar55/learn-npm#readme"
+  "homepage": "https://github.com/moar55/learn-npm#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
 }
