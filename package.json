@@ -10,5 +10,13 @@
   "license": "ISC",
   "keywords": [
     "wow"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moar55/learn-npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/moar55/learn-npm/issues"
+  },
+  "homepage": "https://github.com/moar55/learn-npm#readme"
 }
