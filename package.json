@@ -1,0 +1,14 @@
+{
+  "name": "learn",
+  "version": "1.0.0",
+  "description": "A node package for education lol",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Omar Hossam",
+  "license": "ISC",
+  "keywords": [
+    "wow"
+  ]
+}
